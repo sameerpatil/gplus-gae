@@ -1,0 +1,2 @@
+serviceClass: org.sam.pat.client.GreetingService
+path: 1F3A7606A9C884E907D0882CFF883939.gwt.rpc
